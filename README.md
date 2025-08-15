@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Malak</h1>
-<h3 align="center">Communications Engineer</h3>
+<h1 align="center">Hi, I'm Malak</h1>
+<h3 align="center">A Communications Engineer</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
